@@ -1,0 +1,7 @@
+{
+  "name": "FF WAR",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
